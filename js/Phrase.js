@@ -20,4 +20,13 @@ class Phrase {
   checkLetter(letter) {
     return this.phrase.includes(letter.toLowerCase());
   }
+
+  showMatchedLetter(letter) {
+    letter = letter.toLowerCase();
+    const matchedLetters = document.querySelectorAll(`#phrase li.${letter}`);
+    matchedLetters.forEach((matchedLetter) => {
+      matchedLetter.classList.remove("hide");
+      matchedLetter.classList.add("show");
+    });
+  }
 }
