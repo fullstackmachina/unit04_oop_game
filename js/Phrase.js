@@ -17,6 +17,7 @@ class Phrase {
       ul.appendChild(li);
     }
   }
-
-  checkLetter() {}
+  checkLetter(letter) {
+    return this.phrase.includes(letter.toLowerCase());
+  }
 }
