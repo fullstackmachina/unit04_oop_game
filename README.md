@@ -4,7 +4,7 @@ Treehouse Full Stack JavaScript Techdegree – Unit 04
 
 This project focuses on building a fully interactive browser-based word guessing game using Object-Oriented Programming in vanilla JavaScript. The application separates responsibilities between multiple classes and manages dynamic DOM updates, game state, and user interactions without external libraries.
 
-🔗 Live: https://fullstackmachina.github.io/unit04_phrase_hunter/
+🔗 Live: https://fullstackmachina.github.io/unit04_oop_game/
 
 📸 Preview image ![alt text](preview_project4.png)
 
