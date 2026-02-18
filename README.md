@@ -6,7 +6,7 @@ This project focuses on building a fully interactive browser-based word guessing
 
 🔗 Live: https://fullstackmachina.github.io/unit04_phrase_hunter/
 
-📸 Preview image ![alt text](preview_project4.pngpng)
+📸 Preview image ![alt text](preview_project4.png)
 
 🎯 Project Requirements
 
